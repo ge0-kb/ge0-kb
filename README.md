@@ -1,6 +1,4 @@
-- Hi, I’m @ge0-kb
-- I’m interested in keyboards
-- Discord username: geo.#0004
+discord: geo#5555
 
 <!---
 ge0-kb/ge0-kb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
